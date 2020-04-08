@@ -1,0 +1,55 @@
+@charset "utf-8";
+/* CSS Document */
+.t1{
+	width: 530px;
+	height: 190px;
+}
+img.t1{
+	width: 150px;
+	height: 107px;
+	float: right;
+	margin-left: 20px;
+}
+a.t1{
+	text-decoration: none;
+	font-family: Arial;
+	line-height:20px;
+	font-size: 14px;
+	color:#A49889;
+	font-weight: bold;
+	
+}
+p.t1{
+	
+	font-family:Times New Roman;
+	font-size: 17px;
+	color:black;
+
+	
+}
+
+.khung{
+	width: 530px;
+}
+
+article{
+	width: 250px;
+	height: 255px;
+	border:1px solid black;
+	float: left;
+	margin-right: 15px;
+	box-shadow: 0px 14px 5px -9px grey;
+}
+
+img{
+	width: 250px;
+	height: 170px;
+	
+}
+a{
+	text-decoration: none;
+	font-family: Arial;
+	font-size: 13px;
+	color:#575655;
+	font-weight: bold;
+}
